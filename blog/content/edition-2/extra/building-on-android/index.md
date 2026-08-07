@@ -2,6 +2,9 @@
 title = "Building on Android"
 weight = 3
 aliases = ["second-edition/extra/building-on-android/index.html"]
+
+[extra]
+comments_search_term = 1020
 +++
 
 I finally managed to get `blog_os` building on my Android phone using [termux](https://termux.com/). This post explains the necessary steps to set it up.

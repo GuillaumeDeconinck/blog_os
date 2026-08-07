@@ -5,6 +5,7 @@ path = "vga-text-mode"
 date  = 2018-02-26
 
 [extra]
+comments_search_term = 999
 chapter = "Bare Bones"
 +++
 

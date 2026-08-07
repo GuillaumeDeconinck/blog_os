@@ -5,6 +5,7 @@ path = "heap-allocation"
 date = 2019-06-26
 
 [extra]
+comments_search_term = 1014
 chapter = "Memory Management"
 +++
 

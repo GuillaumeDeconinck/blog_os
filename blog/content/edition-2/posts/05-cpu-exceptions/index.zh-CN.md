@@ -5,6 +5,7 @@ path = "zh-CN/cpu-exceptions"
 date  = 2018-06-17
 
 [extra]
+comments_search_term = 1325
 # Please update this when updating the translation
 translation_based_on_commit = "1132d7a3835dc6c0b3fd8f6b45c9295a9bc1f837"
 # GitHub usernames of the people that translated this post

@@ -32,7 +32,13 @@
     <hr>
     <section>
         <h2 id="comments">Comments</h2>
-        {{ snippets::giscus(search_term=page.title, lang=page.lang) }}
+
+        {% if page.extra.comments_search_term %}
+            {% set search_term=page.extra.comments_search_term %}
+        {% else %}
+            {% set search_term=page.title %}
+        {% endif %}
+        {{ snippets::giscus(search_term=search_term, lang=page.lang) }}
     </section>
 
 {% endblock after_main %}

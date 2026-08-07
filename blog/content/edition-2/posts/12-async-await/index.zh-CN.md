@@ -5,6 +5,7 @@ path = "zh-CN/async-await"
 date = 2020-03-27
 
 [extra]
+comments_search_term = 1446
 chapter = "Multitasking"
 
 # Please update this when updating the translation

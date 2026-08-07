@@ -5,6 +5,7 @@ path = "hardware-interrupts"
 date = 2018-10-22
 
 [extra]
+comments_search_term = 1003
 chapter = "Interrupts"
 +++
 
