@@ -5,6 +5,7 @@ path = "cpu-exceptions"
 date  = 2018-06-17
 
 [extra]
+comments_search_term = 1004
 chapter = "Interrupts"
 +++
 

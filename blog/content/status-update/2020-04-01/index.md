@@ -1,6 +1,9 @@
 +++
 title = "Updates in March 2020"
 date = 2020-04-01
+
+[extra]
+comments_search_term = 1204
 +++
 
 This post gives an overview of the recent updates to the _Writing an OS in Rust_ blog and the corresponding libraries and tools.

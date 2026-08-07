@@ -5,6 +5,7 @@ path = "integration-tests"
 date  = 2018-06-15
 
 [extra]
+comments_search_term = 1006
 warning_short = "Deprecated: "
 warning = "This post is deprecated in favor of the [_Testing_](/testing) post and will no longer receive updates."
 +++

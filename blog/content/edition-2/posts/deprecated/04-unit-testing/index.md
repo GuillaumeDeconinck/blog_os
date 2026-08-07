@@ -5,6 +5,7 @@ path = "unit-testing"
 date  = 2018-04-29
 
 [extra]
+comments_search_term = 1008
 warning_short = "Deprecated: "
 warning = "This post is deprecated in favor of the [_Testing_](/testing) post and will no longer receive updates."
 +++

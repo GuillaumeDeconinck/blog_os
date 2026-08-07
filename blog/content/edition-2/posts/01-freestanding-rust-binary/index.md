@@ -5,6 +5,7 @@ path = "freestanding-rust-binary"
 date = 2018-02-10
 
 [extra]
+comments_search_term = 997
 chapter = "Bare Bones"
 
 # GitHub usernames of the people that translated this post

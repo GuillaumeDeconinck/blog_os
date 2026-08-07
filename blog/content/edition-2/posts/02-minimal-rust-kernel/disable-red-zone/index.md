@@ -3,6 +3,9 @@ title = "Disable the Red Zone"
 weight = 1
 path = "red-zone"
 template = "edition-2/extra.html"
+
+[extra]
+comments_search_term = 1002
 +++
 
 The [red zone] is an optimization of the [System V ABI] that allows functions to temporarily use the 128 bytes below their stack frame without adjusting the stack pointer:

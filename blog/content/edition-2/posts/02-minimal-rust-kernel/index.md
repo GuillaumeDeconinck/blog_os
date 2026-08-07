@@ -5,6 +5,7 @@ path = "minimal-rust-kernel"
 date = 2018-02-10
 
 [extra]
+comments_search_term = 998
 chapter = "Bare Bones"
 +++
 
